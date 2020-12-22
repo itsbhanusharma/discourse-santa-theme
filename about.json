@@ -1,7 +1,7 @@
 {
   "name": "discourse-santa-theme",
-  "about_url": null,
-  "license_url": null,
+  "about_url": https://github.com/MeghnaAJ/discourse-santa-theme,
+  "license_url": https://github.com/MeghnaAJ/discourse-santa-theme/blob/master/LICENSE,
   "assets": {
     "hat": "assets/hat.png"
   },
